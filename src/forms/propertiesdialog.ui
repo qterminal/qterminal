@@ -276,7 +276,7 @@
            <item row="12" column="0">
             <widget class="QCheckBox" name="fixedTabWidthCheckBox">
              <property name="text">
-              <string>Fixed tab width:</string>
+              <string>Fixed tab width</string>
              </property>
             </widget>
            </item>
@@ -286,7 +286,7 @@
               <bool>false</bool>
              </property>
              <property name="suffix">
-              <string>px</string>
+              <string> px</string>
              </property>
              <property name="maximum">
               <number>1000</number>
@@ -403,7 +403,7 @@
            <item row="22" column="0">
             <widget class="QLabel" name="label_13">
              <property name="text">
-              <string>Background image:</string>
+              <string>Background image</string>
              </property>
             </widget>
            </item>
@@ -424,7 +424,7 @@
            <item row="23" column="0">
             <widget class="QLabel" name="label_16">
              <property name="text">
-              <string>Background mode:</string>
+              <string>Background mode</string>
              </property>
             </widget>
            </item>
@@ -460,7 +460,7 @@
            <item row="24" column="0">
             <widget class="QLabel" name="label_9">
              <property name="text">
-              <string>Start with preset:</string>
+              <string>Start with preset</string>
              </property>
              <property name="buddy">
               <cstring>terminalPresetComboBox</cstring>
@@ -504,7 +504,7 @@
            <item row="25" column="1">
             <widget class="QSpinBox" name="terminalMarginSpinBox">
              <property name="suffix">
-              <string>px</string>
+              <string> px</string>
              </property>
             </widget>
            </item>
@@ -701,7 +701,7 @@
                 <item>
                  <widget class="QLabel" name="fixedSizeLabel">
                   <property name="text">
-                   <string>Start with this size:</string>
+                   <string>Start with this size</string>
                   </property>
                  </widget>
                 </item>
@@ -976,7 +976,7 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</str
          <item row="0" column="0">
           <widget class="QLabel" name="dropShortCutLabel">
            <property name="text">
-            <string>Shortcut:</string>
+            <string>Shortcut</string>
            </property>
           </widget>
          </item>
